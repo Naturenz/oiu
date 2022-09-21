@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Apps{
+    background-color:rgb(224, 255, 167) ;
+}
+.line{
+    height: 12px;
+    background-color: rgb(25, 88, 124);
+    width: 250px;
+    margin: 35px auto;
+}
+#myCarrossel{
+    background-color: rgb(149, 213, 93);
+}
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p {
+    margin-top: 15px;
+    color: rgb(139, 198, 247);
+    font-size: 30px;
+}
